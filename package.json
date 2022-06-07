@@ -1,0 +1,25 @@
+{
+  "name": "ds304-m",
+  "version": "1.0.0",
+  "description": "Aula DS304 COTUCA Unicamp",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node main.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mariaxuxu/ds304-m.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mariaxuxu/ds304-m/issues"
+  },
+  "homepage": "https://github.com/mariaxuxu/ds304-m#readme",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.18.1"
+  }
+}
